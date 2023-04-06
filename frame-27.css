@@ -1,0 +1,503 @@
+.frame-child,
+.frame-item,
+.group-child {
+  position: absolute;
+  top: 91px;
+  left: 945px;
+  width: 35px;
+  height: 34px;
+}
+.frame-item,
+.group-child {
+  top: 145px;
+  left: 947px;
+  height: 35px;
+}
+.group-child {
+  top: 0;
+  left: 0;
+  background-color: var(--color-lightgray);
+  width: 1280px;
+  height: 95.16px;
+}
+.edit-message-icon {
+  position: absolute;
+  top: 29.45px;
+  left: 60px;
+  width: 35px;
+  height: 33.31px;
+  object-fit: cover;
+}
+.ng-k-ti {
+  position: absolute;
+  top: 37.06px;
+  left: 100px;
+  font-size: var(--font-size-base);
+  display: inline-block;
+  width: 131px;
+  height: 18.08px;
+}
+.group-item {
+  position: absolute;
+  top: 22.79px;
+  left: 276px;
+  background-color: var(--color-white);
+  width: 723px;
+  height: 47.58px;
+}
+.nhp-gmail-ca {
+  position: absolute;
+  top: 35.16px;
+  left: 302.83px;
+  font-size: var(--font-size-3xl);
+  display: inline-block;
+  width: 288.69px;
+  height: 25.69px;
+}
+.group-inner {
+  position: absolute;
+  top: 22.79px;
+  left: 862px;
+  background-color: var(--color-orange-200);
+  width: 137px;
+  height: 47.58px;
+}
+.ng-k {
+  position: absolute;
+  top: 32.31px;
+  left: 879px;
+  font-size: var(--font-size-6xl);
+  font-weight: 600;
+  color: var(--color-white);
+  display: inline-block;
+  width: 104px;
+  height: 28.55px;
+}
+.div,
+.ellipse-icon {
+  position: absolute;
+  top: 29.45px;
+  left: 1008px;
+  width: 35px;
+  height: 33.31px;
+}
+.div {
+  top: 34px;
+  left: 1051px;
+  font-size: var(--font-size-6xl);
+  font-weight: 600;
+  display: inline-block;
+  width: 169px;
+  height: 28.55px;
+}
+.rectangle-div {
+  position: absolute;
+  top: 94px;
+  left: 0;
+  background-color: var(--color-gray);
+  width: 1280px;
+  height: 350px;
+}
+.hng-dn-pre-oder {
+  position: absolute;
+  top: 191px;
+  left: 585px;
+}
+.a-tn-thi {
+  margin: 0;
+}
+.a-tn-thi-container,
+.chnh-sch-bo {
+  position: absolute;
+  top: 196px;
+  left: 1008px;
+}
+.chnh-sch-bo {
+  top: 224px;
+  left: 585px;
+}
+.chnh-sch-i,
+.div1 {
+  position: absolute;
+  top: 242px;
+  left: 1013px;
+}
+.chnh-sch-i {
+  top: 257px;
+  left: 585px;
+}
+.cskhpremium-gunplavn,
+.iu-khon-s,
+.text {
+  position: absolute;
+  top: 275px;
+  left: 1013px;
+}
+.iu-khon-s,
+.text {
+  top: 290px;
+  left: 585px;
+}
+.text {
+  top: 194px;
+  left: 566px;
+}
+.preium-gunpla-l-container {
+  position: absolute;
+  top: 187px;
+  left: 59px;
+  white-space: pre-wrap;
+  display: inline-block;
+  width: 455px;
+}
+.chnh-sch-ca-container,
+.gii-thiu-v,
+.thng-tin-lin {
+  position: absolute;
+  top: 129px;
+  left: 60px;
+  font-size: var(--font-size-xl);
+}
+.chnh-sch-ca-container,
+.thng-tin-lin {
+  top: 119px;
+  left: 583px;
+}
+.thng-tin-lin {
+  top: 124px;
+  left: 982px;
+}
+.ringing-phone-icon {
+  position: absolute;
+  top: 237px;
+  left: 977px;
+  width: 22px;
+  height: 22px;
+  object-fit: cover;
+}
+.vector-icon {
+  position: absolute;
+  height: 3.6%;
+  width: 0.94%;
+  top: 44.14%;
+  right: 22.34%;
+  bottom: 52.26%;
+  left: 76.72%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.email-send-icon {
+  position: absolute;
+  top: 271px;
+  left: 977px;
+  width: 22px;
+  height: 22px;
+  object-fit: cover;
+}
+.group-child1 {
+  position: absolute;
+  top: 384px;
+  left: 0;
+  background-color: var(--color-gainsboro);
+  width: 1280px;
+  height: 60px;
+}
+.copyright,
+.premium-gunpla-powered {
+  position: absolute;
+  top: 405px;
+  left: 440px;
+}
+.premium-gunpla-powered {
+  left: 523px;
+}
+.copyright-icon,
+.vector-icon1 {
+  position: absolute;
+  overflow: hidden;
+}
+.vector-icon1 {
+  height: 3.38%;
+  width: 1.17%;
+  top: 8.56%;
+  right: 19.3%;
+  bottom: 88.06%;
+  left: 79.53%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.copyright-icon {
+  top: 406px;
+  left: 509px;
+  width: 15px;
+  height: 15px;
+}
+.rectangle-parent {
+  position: absolute;
+  top: 923px;
+  left: -5px;
+  width: 1280px;
+  height: 444px;
+  font-size: var(--font-size-mini);
+}
+.instance-child {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-mini);
+  background-color: var(--color-orange-200);
+}
+.thanh-ton {
+  position: absolute;
+  top: 29.33%;
+  left: 27%;
+  font-weight: 700;
+}
+.rectangle-group {
+  position: absolute;
+  top: 783px;
+  left: 464px;
+  width: 352px;
+  height: 75px;
+  cursor: pointer;
+  font-size: var(--font-size-6xl);
+  font-family: var(--font-iori);
+}
+.cash-euro-icon,
+.ok-icon {
+  position: absolute;
+  top: 261px;
+  left: 451px;
+  width: 294px;
+  height: 313px;
+  object-fit: cover;
+}
+.ok-icon {
+  top: 217px;
+  left: 651px;
+  width: 188px;
+  height: 200px;
+}
+.thanh-ton-thnh-container {
+  position: absolute;
+  top: 586px;
+  left: 73px;
+  font-size: var(--font-size-16xl);
+  font-family: var(--font-iori);
+  white-space: pre-wrap;
+}
+.frame-inner {
+  position: absolute;
+  top: 60px;
+  left: 2px;
+  background-color: var(--color-gray);
+  width: 1280px;
+  height: 158px;
+}
+.line-div {
+  position: absolute;
+  top: 216.5px;
+  left: -1.5px;
+  border-top: 3px solid var(--color-black);
+  box-sizing: border-box;
+  width: 1283px;
+  height: 3px;
+}
+.frame-child1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-orange-100);
+  width: 1280px;
+  height: 60px;
+}
+.free-ship-ni {
+  position: absolute;
+  top: 21px;
+  left: 149px;
+  font-size: var(--font-size-lg);
+  color: var(--color-white);
+}
+.premium-gunpla1 {
+  position: absolute;
+  top: 137px;
+  left: 86px;
+  font-size: var(--font-size-5xs);
+}
+.group-child2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 70px;
+  height: 70px;
+}
+.gundam-00-celestial-being-logo-icon {
+  position: absolute;
+  top: 11.56px;
+  left: 9.88px;
+  width: 50.24px;
+  height: 47.06px;
+  object-fit: cover;
+}
+.ellipse-group,
+.group-child3 {
+  position: absolute;
+  top: 67px;
+  left: 82px;
+  width: 70px;
+  height: 70px;
+}
+.group-child3 {
+  top: 0;
+  left: 0;
+  background-color: var(--color-white);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 723px;
+  height: 50px;
+}
+.tm-kim-sn {
+  position: absolute;
+  top: 13px;
+  left: 26.83px;
+  display: inline-block;
+  width: 288.69px;
+}
+.group-child4 {
+  position: absolute;
+  top: 0;
+  left: 659.13px;
+  background-color: var(--color-orange-200);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 63.87px;
+  height: 50px;
+}
+.search-icon {
+  position: absolute;
+  top: 8px;
+  left: 668.07px;
+  width: 44.71px;
+  height: 35px;
+  object-fit: cover;
+}
+.rectangle-container {
+  position: absolute;
+  top: 82px;
+  left: 202px;
+  width: 723px;
+  height: 50px;
+  font-size: var(--font-size-3xl);
+}
+.vector-icon2 {
+  position: absolute;
+  height: 2.56%;
+  width: 2.73%;
+  top: 7.61%;
+  right: 23.44%;
+  bottom: 89.83%;
+  left: 73.83%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.gi-hng,
+.ti-khon-ca {
+  position: absolute;
+  top: 115px;
+  left: 987px;
+  font-size: var(--font-size-base);
+}
+.gi-hng {
+  top: 170px;
+}
+.group-child5 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 35px;
+  height: 35px;
+}
+.shopping-bag-icon {
+  position: absolute;
+  top: 5px;
+  left: 5px;
+  width: 25px;
+  height: 25px;
+  object-fit: cover;
+}
+.ellipse-container {
+  position: absolute;
+  top: 163px;
+  left: 945px;
+  width: 35px;
+  height: 35px;
+}
+.component-44-child {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: var(--color-white);
+}
+.trang-ch {
+  position: absolute;
+  top: 30.56%;
+  left: 20.62%;
+}
+.component-44,
+.component-45 {
+  position: absolute;
+  top: 160px;
+  left: 60px;
+  width: 97px;
+  height: 36px;
+}
+.component-45 {
+  top: 159px;
+  left: 425px;
+  width: 108px;
+}
+.component-46,
+.component-47,
+.component-48,
+.component-49 {
+  position: absolute;
+  top: 159px;
+  left: 254px;
+  width: 171px;
+  height: 36px;
+}
+.component-47,
+.component-48,
+.component-49 {
+  left: 533px;
+}
+.component-48,
+.component-49 {
+  left: 704px;
+  width: 210px;
+}
+.component-49 {
+  left: 157px;
+  width: 97px;
+}
+.ellipse-parent {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1367px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xs);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
